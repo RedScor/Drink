@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="562" systemVersion="11C74" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Book" representedClassName="Book">
+        <attribute name="Author" optional="YES" attributeType="String"/>
+        <attribute name="BackImage" optional="YES" attributeType="String"/>
+        <attribute name="BriefIntroducation" optional="YES" attributeType="String"/>
+        <attribute name="Date" optional="YES" attributeType="String"/>
+        <attribute name="ID" optional="YES" attributeType="String"/>
+        <attribute name="Name" optional="YES" attributeType="String"/>
+        <attribute name="publishHouse" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Book" positionX="160" positionY="192" width="128" height="150"/>
+    </elements>
+</model>

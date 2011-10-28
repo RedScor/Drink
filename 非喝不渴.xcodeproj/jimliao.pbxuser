@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	BEFDB33C1452B480005EB318 /* 飲み物 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "飲み物";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	BEFDB34F1452B482005EB318 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BEFDB3501452B482005EB318 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ECB2EB6D143E98BC00AAFC38 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = BEFDB33C1452B480005EB318 /* 飲み物 */;
+		activeTarget = ECB2EB75143E98BC00AAFC38 /* 非喝不渴 */;
+		codeSenseManager = BEFDB3501452B482005EB318 /* Code sense */;
+		executables = (
+			BEFDB33C1452B480005EB318 /* 飲み物 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 341329222;
+			PBXWorkspaceStateSaveDate = 341329222;
+		};
+		sourceControlManager = BEFDB34F1452B482005EB318 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	ECB2EB75143E98BC00AAFC38 /* 非喝不渴 */ = {
+		activeExec = 0;
+		executables = (
+			BEFDB33C1452B480005EB318 /* 飲み物 */,
+		);
+	};
+}
